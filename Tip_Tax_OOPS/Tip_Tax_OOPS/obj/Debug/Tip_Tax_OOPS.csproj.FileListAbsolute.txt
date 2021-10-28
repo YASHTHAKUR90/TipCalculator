@@ -1,0 +1,10 @@
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\bin\Debug\Tip_Tax_OOPS.exe.config
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\bin\Debug\Tip_Tax_OOPS.exe
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\bin\Debug\Tip_Tax_OOPS.pdb
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.Form1.resources
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.Properties.Resources.resources
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.csproj.GenerateResource.cache
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.exe
+C:\Users\singh\source\repos\Tip_Tax_OOPS\Tip_Tax_OOPS\obj\Debug\Tip_Tax_OOPS.pdb
